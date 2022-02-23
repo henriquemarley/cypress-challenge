@@ -1,0 +1,6 @@
+{
+    "chromeWebSecurity": false,
+    "baseUrl": "https://the-internet.herokuapp.com",
+    "viewportWidth": 1440,
+    "viewportHeight": 900
+}
